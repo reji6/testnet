@@ -1,0 +1,2 @@
+# testnet
+crypto monkey
